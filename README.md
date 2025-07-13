@@ -36,7 +36,7 @@ This project focuses on detecting and classifying six common types of **Erythema
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Language:** Python 3.x
 - **Libraries:**  
